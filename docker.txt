@@ -1,0 +1,43 @@
+1 ) Este es recordá poner un punto al final.
+
+ docker build -t odoo-argento:15 .
+
+
+
+
+
+
+
+
+221  nano docker-compose.yml
+  222  docker-compose volumes
+  223  docker volume ls
+  224  docker system prune -a volumes
+  225  docker system prune --volumes
+  226  docker volume ls
+  227  docker-compose up
+  228  nano docker-compose.yml
+  229  docker-compose stop
+  230  docker ps
+  231  docker images rm
+  232  docker ps -a
+  233  docker rm 27b1
+  234  docker rm f8d6
+  235  docker ps -a
+  236  docker-compose up
+  238  cp docker-compose.yml.back docker-compose.yml
+  239  nano docker-compose.yml
+  240  docker system prune -a
+  241  docker volumes ls
+  242  docker--volumes ls
+  243  docker -v
+  245  docker volume ls
+  246  docker system prune --volume
+  247  docker system prune --volumes
+  248  docker volume ls
+  249  docker images
+
+
+
+  252  nano docker-compose.yml
+  253  docker-compose up -d
