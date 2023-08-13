@@ -1,0 +1,1000 @@
+ 1075  cd models/
+ 1076  ls
+ 1077  vim account_account
+ 1078  vim account_account.py 
+ 1079  ls
+ 1080  vim account_move.py 
+ 1081  cd ..
+ 1082  cd guvens01/
+ 1083  cd models/
+ 1084  ls
+ 1085  sudo vim models.py
+ 1086  sudo vim woo_contactos.py
+ 1087  cd ..
+ 1088  ls
+ 1089  sudo vim __manifest__.py 
+ 1090  cd models/
+ 1091  ls
+ 1092  sudo vim woo_contactos.py 
+ 1093  cd ..
+ 1094  ls
+ 1095  sudo vim __init__.py 
+ 1096  cd models/
+ 1097  ls
+ 1098  cd ..
+ 1099  sudo vim __init__.py 
+ 1100  pip install pydeps
+ 1101  pipdep .
+ 1102  pydeps .
+ 1103  pythom3 pydeps .
+ 1104  pydeps
+ 1105  ls
+ 1106  cd models/
+ 1107  ls
+ 1108  sudo vim models.py
+ 1109  ls
+ 1110  sudo vim woo_contactos.py 
+ 1111  cd ..
+ 1112  ls
+ 1113  sudo vim __init__.py 
+ 1114  history |grep docker
+ 1115  sudo history |grep docker
+ 1116  sudo su
+ 1117  docker ps
+ 1118  cd ..
+ 1119  docker exec -it odoo bash
+ 1120  docker exec -it -u 0  odoo bash
+ 1121  docker exec -it odoo bash
+ 1122  ls
+ 1123  cd guvesn02/
+ 1124  ls
+ 1125  sudo vim models/models.py 
+ 1126  cd ..
+ 1127  cd guvens01/
+ 1128  ls
+ 1129  cd models/
+ 1130  ls
+ 1131  vim models.py
+ 1132  cd ..
+ 1133  cd guvesn02/
+ 1134  cd models/
+ 1135  ls
+ 1136  sudo vim models.py 
+ 1137  sudo su
+ 1138  sudo vim wooproduct.py 
+ 1139  cd ..
+ 1140  sudo vim __init__.py 
+ 1141  cd models/
+ 1142  ls
+ 1143  cd ..
+ 1144  sudo vim __init__.py 
+ 1145  cd ..
+ 1146  cd guvesn02/
+ 1147  ls
+ 1148  cd models/
+ 1149  ls
+ 1150  cd ..
+ 1151  sudo vim __init__.py 
+ 1152  ls models/
+ 1153  sudo vim __init__.py 
+ 1154  sudo vim models/wooproduct.py 
+ 1155  sudo vim __init__.py 
+ 1156  sudo vim models/wooproduct.py 
+ 1157  ls
+ 1158  cd models/
+ 1159  ls
+ 1160  sudo vim __init__.py 
+ 1161  sudo vim wooproduct.py 
+ 1162  sudo vim models.py 
+ 1163  ls
+ 1164  sudo vim __init__.py 
+ 1165  sudo vim models.py 
+ 1166  sudo su
+ 1167  ls
+ 1168  rm wooproduct.py 
+ 1169  sudo rm wooproduct.py 
+ 1170  sudo vim models.py 
+ 1171  cd docker/
+ 1172  cd macata/
+ 1173  ls
+ 1174  cd woocommerce/
+ 1175  ls
+ 1176  pithon3 atributos.py 
+ 1177  python3 atributos.py 
+ 1178  vim atributos.py 
+ 1179  python3 atributos.py 
+ 1180  vim atributos.py 
+ 1181  python3 atributos.py 
+ 1182  vim atributos.py 
+ 1183  python3 atributos.py 
+ 1184  vim atributos.py 
+ 1185  python3 atributos.py 
+ 1186  vim atributos.py 
+ 1187  python3 atributos.py 
+ 1188  vim atributos.py 
+ 1189  python3 atributos.py 
+ 1190  vim atributos.py 
+ 1191  python3 atributos.py 
+ 1192  vim atributos.py 
+ 1193  python3 atributos.py 
+ 1194  vim atributos.py 
+ 1195  python3 atributos.py 
+ 1196  vim atributos.py 
+ 1197  python3 atributos.py 
+ 1198  vim atributos.py 
+ 1199  python3 atributos.py 
+ 1200  vim atributos.py 
+ 1201  python3 atributos.py 
+ 1202  vim atributos.py 
+ 1203  python3 atributos.py 
+ 1204  vim atributos.py 
+ 1205  cd ..
+ 1206  cd addons-extra/guvens01/
+ 1207  emacs models/models.py
+ 1208  cd ..
+ 1209  cd guvens01/
+ 1210  cd views/
+ 1211  sudo vim views.xml 
+ 1212  cd ..
+ 1213  cd woocommerce/
+ 1214  ls
+ 1215  vim producto.py 
+ 1216  python3 producto.py 
+ 1217  vim producto.py 
+ 1218  cd docker/
+ 1219  cd macata/
+ 1220  ls
+ 1221  cd woocommerce/
+ 1222  ls
+ 1223  cp ordenes.py atributos.py
+ 1224  vim atributos.py 
+ 1225  python3 atributos.py 
+ 1226  vim atributos.py 
+ 1227  python3 atributos.py 
+ 1228  vim atributos.py 
+ 1229  python3 atributos.py 
+ 1230  vim atributos.py 
+ 1231  python3 atributos.py 
+ 1232  vim atributos.py 
+ 1233  python3 atributos.py 
+ 1234  vim atributos.py 
+ 1235  python3 atributos.py 
+ 1236  vim atributos.py 
+ 1237  python3 atributos.py 
+ 1238  vim atributos.py 
+ 1239  python3 atributos.py 
+ 1240  vim atributos.py 
+ 1241  python3 atributos.py 
+ 1242  vim atributos.py 
+ 1243  python3 atributos.py 
+ 1244  vim atributos.py 
+ 1245  python3 atributos.py 
+ 1246  vim atributos.py 
+ 1247  python3 atributos.py 
+ 1248  vim atributos.py 
+ 1249  python3 atributos.py 
+ 1250  vim atributos.py 
+ 1251  python3 atributos.py 
+ 1252  vim atributos.py 
+ 1253  python3 atributos.py 
+ 1254  vim atributos.py 
+ 1255  python3 atributos.py 
+ 1256  vim atributos.py 
+ 1257  python3 atributos.py 
+ 1258  vim atributos.py 
+ 1259  python3 atributos.py 
+ 1260  vim atributos.py 
+ 1261  python3 atributos.py 
+ 1262  vim atributos.py 
+ 1263  python3 atributos.py 
+ 1264  vim atributos.py 
+ 1265  python3 atributos.py 
+ 1266  vim atributos.py 
+ 1267  python3 atributos.py 
+ 1268  vim atributos.py 
+ 1269  python3 atributos.py 
+ 1270  cd ..
+ 1271  ls
+ 1272  cd addons-extra/
+ 1273  ls
+ 1274  cd guvens01/
+ 1275  ls
+ 1276  cd models/
+ 1277  sudo vim models.py
+ 1278  cd ..
+ 1279  cd views/
+ 1280  ls 
+ 1281  sudo vim views.xml 
+ 1282  cd ..
+ 1283  cd models/
+ 1284  ls
+ 1285  sudo vim models.py
+ 1286  cd ..
+ 1287  docker-compose restart
+ 1288  history 
+ 1289  docker-compose logs --tail 100  -f
+ 1290  docker-compose restart
+ 1291  docker-compose logs --tail 100  -f
+ 1292  docker-compose restart
+ 1293  docker-compose logs --tail 100  -f
+ 1294  docker-compose restart
+ 1295  docker-compose logs --tail 100  -f
+ 1296  docker-compose restart
+ 1297  docker-compose logs --tail 100  -f
+ 1298  docker-compose restart
+ 1299  docker-compose logs --tail 100  -f
+ 1300  docker-compose restart
+ 1301  docker-compose logs --tail 100  -f
+ 1302  docker-compose restart
+ 1303  docker-compose logs --tail 100  -f
+ 1304  docker-compose restart
+ 1305  docker-compose logs --tail 100  -f
+ 1306  docker-compose restart
+ 1307  docker-compose logs --tail 100  -f
+ 1308  docker-compose restart
+ 1309  docker-compose logs --tail 100  -f
+ 1310  docker-compose restart
+ 1311  docker-compose logs --tail 100  -f
+ 1312  docker-compose restart
+ 1313  docker-compose logs --tail 100  -f
+ 1314  docker-compose restart
+ 1315  docker-compose logs --tail 100  -f
+ 1316  docker-compose restart
+ 1317  docker-compose logs --tail 100  -f
+ 1318  docker-compose restart
+ 1319  docker-compose logs --tail 100  -f
+ 1320  docker-compose restart
+ 1321  docker-compose logs --tail 100  -f
+ 1322  docker-compose restart
+ 1323  docker-compose logs --tail 100  -f
+ 1324  docker-compose restart
+ 1325  docker-compose logs --tail 100  -f
+ 1326  docker-compose restart
+ 1327  docker-compose logs --tail 100  -f
+ 1328  docker-compose restart
+ 1329  docker-compose logs --tail 100  -f
+ 1330  docker-compose restart
+ 1331  docker-compose logs --tail 100  -f
+ 1332  docker-compose restart
+ 1333  docker-compose logs --tail 100  -f
+ 1334  docker-compose restart
+ 1335  docker-compose logs --tail 100  -f
+ 1336  docker-compose restart
+ 1337  docker-compose logs --tail 100  -f
+ 1338  docker-compose restart
+ 1339  docker-compose logs --tail 100  -f
+ 1340  docker-compose restart
+ 1341  docker-compose logs --tail 100  -f
+ 1342  docker-compose restart
+ 1343  docker-compose logs --tail 100  -f
+ 1344  docker-compose restart
+ 1345  docker-compose logs --tail 100  -f
+ 1346  docker-compose restart
+ 1347  docker-compose logs --tail 100  -f
+ 1348  docker-compose restart
+ 1349  docker-compose logs --tail 100  -f
+ 1350  docker-compose restart
+ 1351  docker-compose logs --tail 100  -f
+ 1352  docker-compose restart
+ 1353  docker-compose logs --tail 100  -f
+ 1354  docker-compose restart
+ 1355  docker-compose logs --tail 100  -f
+ 1356  docker-compose restart
+ 1357  docker-compose logs --tail 100  -f
+ 1358  docker-compose restart
+ 1359  docker-compose logs --tail 100  -f
+ 1360  docker-compose restart
+ 1361  docker-compose logs --tail 100  -f
+ 1362  docker-compose restart
+ 1363  docker-compose logs --tail 100  -f
+ 1364  docker-compose restart
+ 1365  docker-compose logs --tail 100  -f
+ 1366  docker-compose restart
+ 1367  docker-compose logs --tail 100  -f
+ 1368  docker-compose restart
+ 1369  docker-compose logs --tail 100  -f
+ 1370  docker-compose restart
+ 1371  docker-compose logs --tail 100  -f
+ 1372  docker-compose restart
+ 1373  docker-compose logs --tail 100  -f
+ 1374  docker-compose restart
+ 1375  docker-compose logs --tail 100  -f
+ 1376  docker-compose restart
+ 1377  docker-compose logs --tail 100  -f
+ 1378  docker-compose restart
+ 1379  docker-compose logs --tail 100  -f
+ 1380  docker-compose restart
+ 1381  docker-compose logs --tail 100  -f
+ 1382  docker-compose restart
+ 1383  docker-compose logs --tail 100  -f
+ 1384  docker-compose restart
+ 1385  docker-compose logs --tail 100  -f
+ 1386  docker-compose restart
+ 1387  docker-compose logs --tail 100  -f
+ 1388  docker-compose restart
+ 1389  docker-compose logs --tail 100  -f
+ 1390  docker-compose restart
+ 1391  docker-compose logs --tail 100  -f
+ 1392  docker-compose restart
+ 1393  docker-compose logs --tail 100  -f
+ 1394  docker-compose restart
+ 1395  docker-compose logs --tail 100  -f
+ 1396  docker-compose restart
+ 1397  docker-compose logs --tail 100  -f
+ 1398  docker-compose restart
+ 1399  docker-compose logs --tail 100  -f
+ 1400  docker-compose restart
+ 1401  docker-compose logs --tail 100  -f
+ 1402  docker-compose restart
+ 1403  docker-compose logs --tail 100  -f
+ 1404  docker-compose restart
+ 1405  docker-compose logs --tail 100  -f
+ 1406  docker-compose restart
+ 1407  docker-compose logs --tail 100  -f
+ 1408  docker-compose restart
+ 1409  docker-compose logs --tail 100  -f
+ 1410  docker-compose restart
+ 1411  docker-compose logs --tail 100  -f
+ 1412  docker-compose up -d
+ 1413  docker-compose odoo-bin -u guvens01
+ 1414  docker-compose restart
+ 1415  docker-compose logs --tail 100  -f
+ 1416  docker-compose restart
+ 1417  docker-compose logs --tail 100  -f
+ 1418  history |grep scaffold
+ 1419  sudo su
+ 1420  docker-compose restart
+ 1421  docker-compose logs --tail 100  -f
+ 1422  docker-compose restart
+ 1423  docker-compose logs --tail 100  -f
+ 1424  docker-compose restart
+ 1425  docker-compose logs --tail 100  -f
+ 1426  docker-compose restart
+ 1427  cd addons-extra/
+ 1428  ls
+ 1429  ls -lh
+ 1430  cd guvesn02/
+ 1431  ls
+ 1432  ls /lh
+ 1433  ls -lh
+ 1434  cd ..
+ 1435  docker-compose restart
+ 1436  docker-compose logs --tail 100  -f
+ 1437  docker-compose restart
+ 1438  docker-compose logs --tail 100  -f
+ 1439  docker-compose restart
+ 1440  docker-compose logs --tail 100  -f
+ 1441  docker-compose restart
+ 1442  docker-compose logs --tail 100  -f
+ 1443  docker-compose restart
+ 1444  docker-compose logs --tail 100  -f
+ 1445  docker-compose restart
+ 1446  docker-compose logs --tail 100  -f
+ 1447  docker-compose restart
+ 1448  docker-compose logs --tail 100  -f
+ 1449  docker-compose restart
+ 1450  docker-compose logs --tail 100  -f
+ 1451  docker-compose restart
+ 1452  docker-compose logs --tail 100  -f
+ 1453  docker-compose restart
+ 1454  docker-compose logs --tail 100  -f
+ 1455  docker-compose restart
+ 1456  docker-compose logs --tail 100  -f
+ 1457  docker-compose restart
+ 1458  docker-compose logs --tail 100  -f
+ 1459  docker-compose restart
+ 1460  docker-compose logs --tail 100  -f
+ 1461  docker-compose restart
+ 1462  docker-compose logs --tail 100  -f
+ 1463  docker-compose restart
+ 1464  docker-compose logs --tail 100  -f
+ 1465  docker-compose restart
+ 1466  docker-compose logs --tail 100  -f
+ 1467  docker-compose restart
+ 1468  docker-compose logs --tail 100  -f
+ 1469  docker-compose restart
+ 1470  docker-compose logs --tail 100  -f
+ 1471  docker-compose restart
+ 1472  docker-compose logs --tail 100  -f
+ 1473  docker-compose restart
+ 1474  docker-compose logs --tail 100  -f
+ 1475  docker-compose restart
+ 1476  docker-compose logs --tail 100  -f
+ 1477  docker-compose restart
+ 1478  docker-compose logs --tail 100  -f
+ 1479  docker-compose restart
+ 1480  docker-compose logs --tail 100  -f
+ 1481  docker-compose restart
+ 1482  docker-compose logs --tail 100  -f
+ 1483  docker-compose restart
+ 1484  docker-compose logs --tail 100  -f
+ 1485  docker-compose restart
+ 1486  docker-compose logs --tail 100  -f
+ 1487  docker-compose restart
+ 1488  docker-compose logs --tail 100  -f
+ 1489  docker-compose restart
+ 1490  docker-compose logs --tail 100  -f
+ 1491  docker-compose restart
+ 1492  docker-compose logs --tail 100  -f
+ 1493  docker-compose restart
+ 1494  docker-compose logs --tail 100  -f
+ 1495  docker-compose restart
+ 1496  docker-compose logs --tail 100  -f
+ 1497  docker-compose restart
+ 1498  docker-compose logs --tail 100  -f
+ 1499  cd docker/macata/woocommerce/
+ 1500  ls
+ 1501  vim producto.py 
+ 1502  python3 producto.py 
+ 1503  vim producto.py 
+ 1504  python3 producto.py 
+ 1505  vim producto.py 
+ 1506  python3 producto.py 
+ 1507  vim producto.py 
+ 1508  python3 producto.py 
+ 1509  vim producto.py 
+ 1510  python3 producto.py 
+ 1511  vim producto.py 
+ 1512  python3 producto.py 
+ 1513  vim producto.py 
+ 1514  python3 producto.py 
+ 1515  vim producto.py 
+ 1516  python3 producto.py 
+ 1517  vim producto.py 
+ 1518  python3 producto.py 
+ 1519  vim producto.py 
+ 1520  python3 producto.py 
+ 1521  vim producto.py 
+ 1522  python3 producto.py 
+ 1523  vim producto.py 
+ 1524  python3 producto.py 
+ 1525  vim producto.py 
+ 1526  ls
+ 1527  cd docker/
+ 1528  cd macata/
+ 1529  ls
+ 1530  docker-compose restart
+ 1531  docker-compose logs --tail 100  -f
+ 1532  docker-compose restart
+ 1533  docker-compose logs --tail 100  -f
+ 1534  docker-compose restart
+ 1535  docker-compose logs --tail 100  -f
+ 1536  docker-compose restart
+ 1537  docker-compose logs --tail 100  -f
+ 1538  docker-compose restart
+ 1539  docker-compose logs --tail 100  -f
+ 1540  docker-compose restart
+ 1541  docker-compose logs --tail 100  -f
+ 1542  docker-compose restart
+ 1543  docker-compose logs --tail 100  -f
+ 1544  docker-compose restart
+ 1545  docker-compose logs --tail 100  -f
+ 1546  docker-compose restart
+ 1547  docker-compose logs --tail 100  -f
+ 1548  docker-compose restart
+ 1549  docker-compose logs --tail 100  -f
+ 1550  docker-compose restart
+ 1551  docker-compose logs --tail 100  -f
+ 1552  docker-compose restart
+ 1553  docker-compose logs --tail 100  -f
+ 1554  docker-compose restart
+ 1555  docker-compose logs --tail 100  -f
+ 1556  docker-compose restart
+ 1557  docker-compose logs --tail 100  -f
+ 1558  docker-compose restart
+ 1559  docker-compose logs --tail 100  -f
+ 1560  docker-compose restart
+ 1561  docker-compose logs --tail 100  -f
+ 1562  docker-compose restart
+ 1563  docker-compose logs --tail 100  -f
+ 1564  docker-compose restart
+ 1565  docker-compose logs --tail 100  -f
+ 1566  docker-compose restart
+ 1567  docker-compose logs --tail 100  -f
+ 1568  docker-compose restart
+ 1569  docker-compose logs --tail 100  -f
+ 1570  docker-compose restart
+ 1571  docker-compose logs --tail 100  -f
+ 1572  docker-compose restart
+ 1573  docker-compose logs --tail 100  -f
+ 1574  docker-compose restart
+ 1575  docker-compose logs --tail 100  -
+ 1576  docker-compose logs --tail 100  -f
+ 1577  docker-compose restart
+ 1578  docker-compose logs --tail 100  -f
+ 1579  docker-compose restart
+ 1580  docker-compose logs --tail 100  -f
+ 1581  docker-compose restart
+ 1582  docker-compose logs --tail 100  -f
+ 1583  docker-compose restart
+ 1584  docker-compose logs --tail 100  -f
+ 1585  docker-compose restart
+ 1586  docker-compose logs --tail 100  -f
+ 1587  docker-compose restart
+ 1588  docker-compose logs --tail 100  -f
+ 1589  docker-compose restart
+ 1590  docker-compose logs --tail 100  -f
+ 1591  docker-compose restart
+ 1592  docker-compose logs --tail 100  -f
+ 1593  docker-compose restart
+ 1594  docker-compose logs --tail 100  -f
+ 1595  docker-compose restart
+ 1596  docker-compose logs --tail 100  -f
+ 1597  docker-compose restart
+ 1598  docker-compose logs --tail 100  -f
+ 1599  docker-compose restart
+ 1600  docker-compose logs --tail 100  -f
+ 1601  docker-compose restart
+ 1602  docker-compose logs --tail 100  -f
+ 1603  docker-compose restart
+ 1604  docker-compose logs --tail 100  -f
+ 1605  docker-compose restart
+ 1606  docker-compose logs --tail 100  -f
+ 1607  docker-compose restart
+ 1608  docker-compose logs --tail 100  -f
+ 1609  docker-compose restart
+ 1610  docker-compose logs --tail 100  -f
+ 1611  docker-compose restart
+ 1612  docker-compose logs --tail 100  -f
+ 1613  docker-compose restart
+ 1614  docker-compose logs --tail 100  -f
+ 1615  docker-compose restart
+ 1616  docker-compose logs --tail 100  -f
+ 1617  docker-compose restart
+ 1618  docker-compose logs --tail 100  -f
+ 1619  docker-compose restart
+ 1620  docker-compose logs --tail 100  -f
+ 1621  docker-compose restart
+ 1622  docker-compose logs --tail 100  -f
+ 1623  docker-compose restart
+ 1624  docker-compose logs --tail 100  -f
+ 1625  docker-compose restart
+ 1626  docker-compose logs --tail 100  -f
+ 1627  docker-compose restart
+ 1628  docker-compose logs --tail 100  -f
+ 1629  docker-compose restart
+ 1630  docker-compose stop
+ 1631  docker-compose restart
+ 1632  docker-compose logs --tail 100  -f
+ 1633  docker-compose restart
+ 1634  docker-compose logs --tail 100  -f
+ 1635  docker-compose restart
+ 1636  docker-compose logs --tail 100  -f
+ 1637  docker-compose restart
+ 1638  docker-compose logs --tail 100  -f
+ 1639  docker-compose restart
+ 1640  docker-compose logs --tail 100  -f
+ 1641  docker-compose restart
+ 1642  docker-compose logs --tail 100  -f
+ 1643  docker-compose restart
+ 1644  cd docker/macata/
+ 1645  ls
+ 1646  cd addons-extra/
+ 1647  ls
+ 1648  cd guvens01/
+ 1649  cd models/
+ 1650  sudo vim models.py
+ 1651  cd ..
+ 1652  ls
+ 1653  cd security/
+ 1654  ls
+ 1655  sudo vim ir.model.access.csv 
+ 1656  cd ..
+ 1657  ls
+ 1658  cd views/
+ 1659  sudo vim views.xml 
+ 1660  cd ..
+ 1661  cd models/
+ 1662  sudo vim models.py
+ 1663  ls
+ 1664  rm models01.py 
+ 1665  sudo rm models01.py 
+ 1666  ls
+ 1667  sudo rm models.py~
+ 1668  ls
+ 1669  sudo vim __init__.py 
+ 1670  vim
+ 1671  sudo vim 
+ 1672  cd docker/
+ 1673  cd macata/
+ 1674  cd woocommerce/
+ 1675  ls
+ 1676  vim producto.py 
+ 1677  ls
+ 1678  vim atributos.py 
+ 1679  ls
+ 1680  pyton3 producto.py 
+ 1681  python3 producto.py 
+ 1682  vim producto.py 
+ 1683  python3 producto.py 
+ 1684  history |grep ssh
+ 1685  mc
+ 1686  ssh 172.27.20.244
+ 1687  ssh horacio@192.168.195.144
+ 1688  mc
+ 1689  ssh horacio@192.168.195.144
+ 1690  mc
+ 1691  ssh horacio@192.168.195.144
+ 1692  mc
+ 1693  ssh horacio@192.168.195.144
+ 1694  ssh 172.27.0.66
+ 1695  cd docker/
+ 1696  ls
+ 1697  cd macata/
+ 1698  ls
+ 1699  cd addons-extra/
+ 1700  ls
+ 1701  cd guvens02
+ 1702  cd guvesn02/
+ 1703  cd models/
+ 1704  ls
+ 1705  vi models.py 
+ 1706  cd ..
+ 1707  ls
+ 1708  cd models/
+ 1709  ls
+ 1710  cd ..
+ 1711  cd guvens01/
+ 1712  ls
+ 1713  cd models/
+ 1714  ls
+ 1715  vi models.py 
+ 1716  history |grep docker-compose
+ 1717  cd docker
+ 1718  cd macata/
+ 1719  ls
+ 1720  emacs docker-compose.yml 
+ 1721  history |grep pem
+ 1722  history |grep ssh
+ 1723  ls
+ 1724  ls *.pem
+ 1725  sudo su
+ 1726  history |grep ssh
+ 1727  cd docker/
+ 1728  cd macata/
+ 1729  ls
+ 1730  cd etc/odoo/
+ 1731  ls
+ 1732  emacs odoo.conf
+ 1733  ls
+ 1734  cd ..
+ 1735  ls
+ 1736  cd ..
+ 1737  ls
+ 1738  emacs docker-compose.yml 
+ 1739  emacs
+ 1740  emacs -nw
+ 1741  ssh root@172.27.120.230
+ 1742  ssh horacio@172.27.0.66
+ 1743  ssh -p 22 odoo@149.56.131.122 / 0dooT3cn1can4t$
+ 1744  ssh -p 22 odoo@149.56.131.122
+ 1745  ssh 172.27.20.244
+ 1746  exit
+ 1747  ssh 172.27.20.244
+ 1748  exit
+ 1749  ls
+ 1750  cd docker
+ 1751  dir
+ 1752  cd odoo/
+ 1753  ls
+ 1754  cd woocommerce/
+ 1755  ls
+ 1756  cd docker
+ 1757  ls
+ 1758  cd 14
+ 1759  cd 15.0/
+ 1760  ls
+ 1761  sudo apt install docker.io
+ 1762  docker
+ 1763  pipx install copier
+ 1764  pip3 install copier
+ 1765  sudo pip3 install docker-compose
+ 1766  pip3 install docker-compose
+ 1767  pip3 install plumbum
+ 1768  pip3 install pre-commit
+ 1769  sudo apt-get install python3-venv
+ 1770  mkdir dooba
+ 1771  copier copy gh:Tecnativa/doodba-copier-template dooba
+ 1772  invoke after-update
+ 1773  sudo apt install python3-invoke
+ 1774  sudo su
+ 1775  invoke after-update
+ 1776  ssh 172.19.23.91
+ 1777  ping 172.19.23.91
+ 1778  ping http://crm.grupolargentina.com
+ 1779  ping http://crm.grupolargentina.com:8069
+ 1780  whois http://crm.grupolargentina.com:8069
+ 1781  ping 200.58.110.191
+ 1782  ssh 200.58.110.191
+ 1783  ping 172.19.23.91
+ 1784  ping externo-ncervin@172.19.23.91
+ 1785  ssh externo-ncervin@172.19.23.91
+ 1786  nmap 172.19.23.91
+ 1787  sudo apt install nmap
+ 1788  sudo su
+ 1789  hym
+ 1790  sudo su
+ 1791  hym2709
+ 1792  su 
+ 1793  su
+ 1794  sudo su
+ 1795  sudo apt install nmap
+ 1796  passwd
+ 1797  sudo su
+ 1798  ssh horacio@172.27.0.66
+ 1799  ssh root@77.243.85.240
+ 1800  sudo apt update
+ 1801  apt upgrade
+ 1802  sudo apt upgrade
+ 1803  password hym270903
+ 1804  passwd
+ 1805  ls
+ 1806  cd Documentos/
+ 1807  ls
+ 1808  cd JetOil/
+ 1809  ls
+ 1810  cd 122022/
+ 1811  ls
+ 1812  cd ..
+ 1813  ls
+ 1814  cd ..
+ 1815  ls
+ 1816  locate iva
+ 1817  grep iva
+ 1818  history |grep ssh
+ 1819  ssh root@77.243.85.240
+ 1820  exit
+ 1821  ssh root@77.243.85.240
+ 1822  exit
+ 1823  ssh root@77.243.85.240
+ 1824  history |grep ssh
+ 1825  ssh 172.27.20.244
+ 1826  history |grep ssh
+ 1827  ssh horacio@172.27.0.66
+ 1828  exit
+ 1829  ssh horacio@172.27.0.66
+ 1830  ssh root@77.243.85.240
+ 1831  ssh root@77.243.85.240
+ 1832  ssh grupovitale@142.4.207.163
+ 1833  exit
+ 1834  ssh root@77.243.85.240
+ 1835  sshpass -p Hym@270903 ssh root@77.243.85.240
+ 1836  sudo su
+ 1837  ssh grupovitale@142.4.207.163
+ 1838  sshpass -p grupovitali123 ssh grupovitale@142.4.207.163
+ 1839  sshpass -p grupovitale123 ssh grupovitale@142.4.207.163
+ 1840  ssh grupovitale@142.4.207.163
+ 1841  sshpass -p grupovitale123 ssh grupovitale@142.4.207.163
+ 1842  sudo apt install sshpass
+ 1843  sudo su
+ 1844  sshpass -p grupovitale123 ssh grupovitale@142.4.207.163
+ 1845  ssh grupovitale@142.4.207.163
+ 1846  sshpass -p Hym@270903 ssh root@77.243.85.240
+ 1847  exit
+ 1848  sshpass -p Hym@270903 ssh root@77.243.85.240
+ 1849  exit
+ 1850  sshpass -p Hym@270903 ssh root@77.243.85.240
+ 1851  exit
+ 1852  history |grep 194.163
+ 1853  history |grep ssh
+ 1854  ssh horacio@194.163.45.54
+ 1855  ssh root@194.163.45.54
+ 1856  sshpass -p Hym@270903 ssh root@194.163.45.54
+ 1857  history |grep 66
+ 1858  ssh horacio@172.27.0.66
+ 1859  sshpass -p 2023$n3r0b33r!  ssh root@nerobeer.tecnicanet.com
+ 1860  sshpass -p 2023$n3r0b33r! ssh root@nerobeer.tecnicanet.com
+ 1861  ssh root@nerobeer.tecnicanet.com
+ 1862  sshpass -p 2023$n3r0b33r! ssh root@nerobeer.tecnicanet.com
+ 1863  sshpass -p 2023$n3r0b33r!  ssh root@nerobeer.tecnicanet.com
+ 1864  ssh root@nerobeer.tecnicanet.com
+ 1865  exit
+ 1866  sudo su
+ 1867  exit
+ 1868  shutdown 
+ 1869  shutdown now
+ 1870  ssh horacio@172.27.0.66
+ 1871  sudo apt install git
+ 1872  sudo apt install gitg 
+ 1873  sudo apt install meld
+ 1874  exit
+ 1875  history |grep 172
+ 1876  exit
+ 1877  sshpass -p Hym@270903 ssh root@77.243.85.240
+ 1878  history |grep 60
+ 1879  history |grep 172
+ 1880  sshpass -p Hym@270903 ssh horacio@172.27.0.66
+ 1881  sshpass -p hym2709 ssh horacio@172.27.0.66
+ 1882  exit
+ 1883  ls
+ 1884  cd Documentos/
+ 1885  ls
+ 1886  cd JetOil/
+ 1887  ls
+ 1888  cd 122022/
+ 1889  ls
+ 1890  cd ..
+ 1891  mkdir imp_2023
+ 1892  cd imp_2023/
+ 1893  ls
+ 1894  history |grep python
+ 1895  history |grep pdb
+ 1896  ls
+ 1897  history |grep iva
+ 1898  sudo su
+ 1899  ssh root@nerobeer.tecnicanet.com
+ 1900  ping nerobeer.tecnicanet.com
+ 1901  exit
+ 1902  history |grep vitale
+ 1903  sshpass -p grupovitale123 ssh grupovitale@142.3.207.163
+ 1904  sshpass -p grupovitale123 ssh grupovitale@142.4.207.163
+ 1905  exit
+ 1906  mc
+ 1907  sudo su
+ 1908  historo vital
+ 1909  history |grep vital
+ 1910  sshpass -p grupovitale123 ssh grupovitale@142.4.207.163
+ 1911  exit
+ 1912  sshpass -p grupovitale123 ssh grupovitale@142.4.207.163
+ 1913  ls
+ 1914  cd docker
+ 1915  ls
+ 1916  cd odoo
+ 1917  ls
+ 1918  cd ..
+ 1919  cd macata
+ 1920  ls
+ 1921  docker compose start
+ 1922  docker ps
+ 1923  ls
+ 1924  emacs docker-compose.yml 
+ 1925  emacs docker-compose.yml  -nw
+ 1926  ls
+ 1927  cd docker/
+ 1928  ls
+ 1929  cd macata
+ 1930  ls
+ 1931  cd addons-extra/
+ 1932  ls
+ 1933  mkdir argento
+ 1934  ls -lh
+ 1935  cd ..
+ 1936  ls
+ 1937  git@github.com:GuvensConsultora/argento.git
+ 1938  ls
+ 1939  cd ..
+ 1940  ls
+ 1941  cd macata
+ 1942  docker compose stop
+ 1943  ls
+ 1944  df -h
+ 1945  ls
+ 1946  cd ..
+ 1947  ls
+ 1948  cd odoo
+ 1949  ls
+ 1950  cd ..
+ 1951  ls
+ 1952  cd dockerfiles/
+ 1953  ls
+ 1954  cd odoo/
+ 1955  ls
+ 1956  cd ..
+ 1957  ls
+ 1958  cd ..
+ 1959  ls
+ 1960  cd odoo
+ 1961  ls
+ 1962  cd ..
+ 1963  cd dockerfiles
+ 1964  ls
+ 1965  cd odoo
+ 1966  ls
+ 1967  mc
+ 1968  ls
+ 1969  cd ..
+ 1970  ls
+ 1971  cd ..
+ 1972  ls
+ 1973  cd vitale
+ 1974  ls
+ 1975  cd ..
+ 1976  cd dockerfiles/
+ 1977  ls
+ 1978  cd odoo/
+ 1979  ls
+ 1980  cd ..
+ 1981  ls
+ 1982  cd ..
+ 1983  ls
+ 1984  cd odoo
+ 1985  ls
+ 1986  cd ..
+ 1987  cd dockerfiles
+ 1988  ls
+ 1989  cd odoo/
+ 1990  ls
+ 1991  cd ..
+ 1992  ls
+ 1993  cd macata
+ 1994  ls
+ 1995  cd ..
+ 1996  ls
+ 1997  history |grep ssh
+ 1998  exit
+ 1999  ls
+ 2000  cd docker/
+ 2001  ls
+ 2002  cd vitale/
+ 2003  ls
+ 2004  nano token
+ 2005  git status
+ 2006  ls
+ 2007  ls -la
+ 2008  git init
+ 2009  git add .
+ 2010  git commit -m "Inicio"
+ 2011  git config --globarl user.email guvensconsultora@gmail.com
+ 2012  git config --global user.email guvensconsultora@gmail.com
+ 2013  git commit -m "Inicio"
+ 2014  git remote add origin https://github.com/GuvensConsultora/argento.git
+ 2015  git push -u origin master
+ 2016  git pull
+ 2017  ls
+ 2018  history > historio
+ 2019  git add .
+ 2020  git commit -m "Agregado historial"
+ 2021  git push -u origin master
+ 2022  git push -u origin main
+ 2023  git status
+ 2024  git branch
+ 2025  ls
+ 2026  ls -la
+ 2027  git init
+ 2028  git branch
+ 2029  git push -u origim
+ 2030  git push -u master
+ 2031  git push -u origim master
+ 2032  git push -u origin 
+ 2033  git init
+ 2034  echo "# argento" >> README.md
+ 2035  git init
+ 2036  git add README.md
+ 2037  git commit -m "Mi primer publicación"
+ 2038  git branch -M main
+ 2039  git remote add origin https://github.com/GuvensConsultora/argento.git
+ 2040  git push -u origin main
+ 2041  git remote add origin https://github.com/GuvensConsultora/argento.git
+ 2042  ssh-keygen -t rsa -b 4096 -C "guvensconsultora@gmail.com"
+ 2043  ssh-add ~/.ssh/id_rsa
+ 2044  cat ~/.ssh/id_rsa.pub
+ 2045  cd ..
+ 2046  git clone git@github.com:GuvensConsultora/argento.git
+ 2047  ls
+ 2048  cd argento
+ 2049  echo "# argento" >> README.md
+ 2050  git init
+ 2051  git add README.md
+ 2052  git commit -m "first commit"
+ 2053  git branch -M main
+ 2054  git remote add origin git@github.com:GuvensConsultora/argento.git
+ 2055  git push -u origin main
+ 2056  mc
+ 2057  ls
+ 2058  docker add .
+ 2059  git add .
+ 2060  git -m "Actualizo archivos"
+ 2061  git -m commit "Actualizo archivos"
+ 2062  git commit -m "Actualizo archivos"
+ 2063  git push -u origin main
+ 2064  cd ..
+ 2065  cd vitale
+ 2066  ls
+ 2067  git remote add origin git@github.com:GuvensConsultora/vitale.git
+ 2068  git init
+ 2069  git commit -m "Nueva actualización"
+ 2070  git push -u origin main
+ 2071  cd ..
+ 2072  cd argento
+ 2073  ls
+ 2074  history > historio
